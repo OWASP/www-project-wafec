@@ -7,7 +7,7 @@
 
 ### Downloads 
 * [Download v1.0](http://projects.webappsec.org/f/wasc-wafec-v1.0.pdf)
-* [Response Matrix Spreadsheet] (http://projects.webappsec.org/f/WAFEC_Evaluation_Response_Matrix_1.0.xls)
+* [Response Matrix Spreadsheet](http://projects.webappsec.org/f/WAFEC_Evaluation_Response_Matrix_1.0.xls)
 
 ### YouTube
 [WAFEC intro video](https://youtu.be/XUEpjyJ8sgY)
