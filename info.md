@@ -6,7 +6,7 @@
 
 
 ### Downloads 
-* [Download v1.0](http://projects.webappsec.org/f/wasc-wafec-v1.0.pdf)
+* [Download v1.0 PDF](http://projects.webappsec.org/f/wasc-wafec-v1.0.pdf)
 * [Response Matrix Spreadsheet](http://projects.webappsec.org/f/WAFEC_Evaluation_Response_Matrix_1.0.xls)
 
 ### YouTube
