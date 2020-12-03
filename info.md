@@ -1,4 +1,4 @@
-### wafec Information
+### OWASP WAFEC Information
 * [Incubator Project](#)
 * [Documentation Project](#)
 * [Version 1.0](#)
